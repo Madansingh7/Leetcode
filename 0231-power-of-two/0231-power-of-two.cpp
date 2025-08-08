@@ -5,6 +5,6 @@ public:
         while(n % 2 == 0){//if its even
             n /= 2; //divide by 2 until we get 1
         }
-        return n == 1 ? true : false;
+        return n == 1;
     }
 };
