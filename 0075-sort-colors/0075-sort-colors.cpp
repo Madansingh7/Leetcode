@@ -1,6 +1,7 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
+        // using DUTCH NATIONAL FAG ALGORITHM
         int mid=0, high=nums.size()-1, low=0;
 
         while(mid<=high){
