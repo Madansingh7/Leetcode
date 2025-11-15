@@ -12,7 +12,7 @@ struct ListNode* middleNode(NODE head) {
     if (head == NULL || head->next == NULL)
         return head;
 
-    // Step 1: Count nodes
+    //Count nodes
     int count = 0;
     NODE curr = head;
 
@@ -21,10 +21,10 @@ struct ListNode* middleNode(NODE head) {
         curr = curr->next;
     }
 
-    // Step 2: Find middle index
+    //find middle index
     int mid = count / 2;   // Works for both even & odd
 
-    // Step 3: Move to middle node
+    //Move to middle node
     curr = head;
     for (int i = 0; i < mid; i++) {
         curr = curr->next;
