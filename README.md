@@ -14,6 +14,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2235-add-two-integers](https://github.com/Madansingh7/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Madansingh7/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
