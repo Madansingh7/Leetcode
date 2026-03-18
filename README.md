@@ -7,6 +7,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Madansingh7/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Madansingh7/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Madansingh7/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Madansingh7/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -33,4 +35,8 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Madansingh7/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
