@@ -30,6 +30,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Madansingh7/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Madansingh7/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Madansingh7/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Madansingh7/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Madansingh7/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
