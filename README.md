@@ -11,6 +11,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0055-jump-game](https://github.com/Madansingh7/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Madansingh7/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Madansingh7/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/Madansingh7/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 ## Hash Table
@@ -54,9 +55,11 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Madansingh7/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Madansingh7/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/Madansingh7/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
