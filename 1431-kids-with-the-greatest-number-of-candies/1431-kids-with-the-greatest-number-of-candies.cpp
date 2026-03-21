@@ -7,6 +7,7 @@ public:
 
         vector<bool>res;
 
+        // basic approach
         // for(int i=0; i<candies.size(); i++){
         //     if(candies[i]+ extraCandies >= *max){
         //         res.push_back(true);
