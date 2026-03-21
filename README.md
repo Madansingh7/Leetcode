@@ -14,6 +14,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/Madansingh7/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madansingh7/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
