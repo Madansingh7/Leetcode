@@ -30,6 +30,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0258-add-digits](https://github.com/Madansingh7/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Madansingh7/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [2235-add-two-integers](https://github.com/Madansingh7/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Madansingh7/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -92,4 +93,12 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Madansingh7/Leetcode/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Madansingh7/Leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
