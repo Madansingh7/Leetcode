@@ -15,6 +15,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/Madansingh7/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0605-can-place-flowers](https://github.com/Madansingh7/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Madansingh7/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -106,6 +107,15 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Madansingh7/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Madansingh7/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
