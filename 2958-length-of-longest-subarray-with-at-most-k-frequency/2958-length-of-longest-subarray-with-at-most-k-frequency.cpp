@@ -11,12 +11,13 @@ public:
             freq[nums[right]]++;
             while(freq[nums[right]]>k){
                 freq[nums[left]]--;
-                left++;
 
                 //if frequency of element is zero than no use of storing it so remove it
                 if(freq[nums[left]]==0){
                     freq.erase(nums[left]);
                 }
+
+                left++;
             }
             ans = max(ans, right-left+1);
         }
