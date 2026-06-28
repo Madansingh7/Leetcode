@@ -24,6 +24,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0904-fruit-into-baskets](https://github.com/Madansingh7/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madansingh7/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madansingh7/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Madansingh7/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -122,6 +124,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0904-fruit-into-baskets](https://github.com/Madansingh7/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Madansingh7/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
