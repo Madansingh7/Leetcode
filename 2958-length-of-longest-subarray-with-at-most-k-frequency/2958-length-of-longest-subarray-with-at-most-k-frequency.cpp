@@ -13,9 +13,9 @@ public:
                 freq[nums[left]]--;
 
                 //if frequency of element is zero than no use of storing it so remove it
-                if(freq[nums[left]]==0){
-                    freq.erase(nums[left]);
-                }
+                // if(freq[nums[left]]==0){
+                //     freq.erase(nums[left]);
+                // }
 
                 left++;
             }
