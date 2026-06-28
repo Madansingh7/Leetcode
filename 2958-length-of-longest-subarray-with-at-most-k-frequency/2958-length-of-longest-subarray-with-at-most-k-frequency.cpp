@@ -1,5 +1,12 @@
 class Solution {
 public:
+
+    Solution() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    }
+
     int maxSubarrayLength(vector<int>& nums, int k) {
         int left =0; 
         int ans =0;
