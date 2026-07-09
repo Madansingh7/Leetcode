@@ -18,6 +18,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/Madansingh7/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Madansingh7/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0605-can-place-flowers](https://github.com/Madansingh7/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Madansingh7/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -35,6 +36,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madansingh7/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Madansingh7/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Madansingh7/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Madansingh7/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madansingh7/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -150,6 +152,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Madansingh7/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Queue
