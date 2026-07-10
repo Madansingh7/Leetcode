@@ -35,6 +35,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0001-two-sum](https://github.com/Madansingh7/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madansingh7/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Madansingh7/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Madansingh7/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -74,6 +75,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madansingh7/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Madansingh7/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -130,6 +132,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madansingh7/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Madansingh7/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
