@@ -30,9 +30,6 @@ public:
             //if invalid shrink window
             if((right-left+1) > n){
                 windowFreq[s[left] - 'a']--;
-                // if(windowFreq[s[left] - 'a'] == 0){
-                //     windowFreq.remove(s[left]);
-                // }
                 left++;
             }
 
