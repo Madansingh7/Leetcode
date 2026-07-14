@@ -4,6 +4,8 @@ public:
 
         int m=s.size(), n=p.size();
         vector<int>ans;
+
+        //edge case
         if(n>m){
             return ans;
         }
@@ -12,6 +14,7 @@ public:
         vector<int>windowFreq(26,0);
         int left=0;
 
+        //first window
         for(int i=0; i<n; i++){
             freq[p[i] - 'a']++;
             windowFreq[s[i] - 'a']++;
@@ -25,7 +28,7 @@ public:
             windowFreq[s[right] - 'a']++;
 
             //if invalid shrink window
-            while((right-left+1) > n){
+            if((right-left+1) > n){
                 windowFreq[s[left] - 'a']--;
                 // if(windowFreq[s[left] - 'a'] == 0){
                 //     windowFreq.remove(s[left]);
