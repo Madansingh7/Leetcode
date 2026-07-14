@@ -38,6 +38,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Madansingh7/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Madansingh7/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Madansingh7/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -81,6 +82,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Madansingh7/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madansingh7/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -138,6 +140,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Madansingh7/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
