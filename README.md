@@ -44,6 +44,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0904-fruit-into-baskets](https://github.com/Madansingh7/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madansingh7/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/Madansingh7/Leetcode/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
@@ -87,6 +88,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [1071-greatest-common-divisor-of-strings](https://github.com/Madansingh7/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madansingh7/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Madansingh7/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Madansingh7/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -182,4 +184,16 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0194-transpose-file](https://github.com/Madansingh7/Leetcode/tree/main/0194-transpose-file/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 <!---LeetCode Topics End-->
