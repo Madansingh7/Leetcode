@@ -26,6 +26,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Madansingh7/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madansingh7/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madansingh7/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/Madansingh7/Leetcode/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -151,6 +152,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Madansingh7/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madansingh7/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madansingh7/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Madansingh7/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/Madansingh7/Leetcode/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -168,6 +170,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0713-subarray-product-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madansingh7/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
