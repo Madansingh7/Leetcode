@@ -34,6 +34,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madansingh7/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madansingh7/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2653-sliding-subarray-beauty](https://github.com/Madansingh7/Leetcode/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
@@ -177,6 +178,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madansingh7/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Madansingh7/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2653-sliding-subarray-beauty](https://github.com/Madansingh7/Leetcode/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Binary Search
@@ -186,6 +188,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0713-subarray-product-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1208-get-equal-substrings-within-budget/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +204,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [1208-get-equal-substrings-within-budget](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1208-get-equal-substrings-within-budget/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madansingh7/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
