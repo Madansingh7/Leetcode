@@ -238,8 +238,10 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0024-swap-nodes-in-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0024-swap-nodes-in-pairs/) | Medium |
 <!---LeetCode Topics End-->
