@@ -33,6 +33,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Madansingh7/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madansingh7/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madansingh7/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1590-make-sum-divisible-by-p/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2653-sliding-subarray-beauty](https://github.com/Madansingh7/Leetcode/tree/main/2653-sliding-subarray-beauty/) | Medium |
@@ -58,6 +59,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madansingh7/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1590-make-sum-divisible-by-p/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/Madansingh7/Leetcode/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -205,6 +207,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [1208-get-equal-substrings-within-budget](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1208-get-equal-substrings-within-budget/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madansingh7/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1590-make-sum-divisible-by-p](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1590-make-sum-divisible-by-p/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
