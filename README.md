@@ -47,6 +47,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Madansingh7/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0525-contiguous-array/) | Medium |
@@ -102,6 +103,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Madansingh7/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -166,6 +168,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Madansingh7/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
