@@ -75,6 +75,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0523-continuous-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Madansingh7/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Madansingh7/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Madansingh7/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -155,6 +156,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Madansingh7/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
