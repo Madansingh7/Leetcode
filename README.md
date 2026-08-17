@@ -27,6 +27,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0724-find-pivot-index](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Madansingh7/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0930-binary-subarrays-with-sum/) | Medium |
+| [0954-array-of-doubled-pairs](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -55,6 +56,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Madansingh7/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0930-binary-subarrays-with-sum/) | Medium |
+| [0954-array-of-doubled-pairs](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
@@ -125,6 +127,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Madansingh7/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0954-array-of-doubled-pairs](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -138,6 +141,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0055-jump-game](https://github.com/Madansingh7/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/Madansingh7/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0954-array-of-doubled-pairs](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
