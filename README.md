@@ -262,6 +262,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -270,9 +271,14 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
