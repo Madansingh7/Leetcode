@@ -9,6 +9,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0001-two-sum](https://github.com/Madansingh7/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Madansingh7/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/Madansingh7/Leetcode/tree/main/0055-jump-game/) | Medium |
@@ -89,6 +90,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | ------- | ------- |
 | [0015-3sum](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Madansingh7/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Madansingh7/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -132,6 +134,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | ------- | ------- |
 | [0015-3sum](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Madansingh7/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
