@@ -33,6 +33,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0954-array-of-doubled-pairs](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Madansingh7/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -129,6 +130,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +159,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [1019-next-greater-node-in-linked-list](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +268,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0002-add-two-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
+| [1019-next-greater-node-in-linked-list](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
