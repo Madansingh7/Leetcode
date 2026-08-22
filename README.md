@@ -264,11 +264,13 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
