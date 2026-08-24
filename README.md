@@ -148,6 +148,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/Madansingh7/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0894-all-possible-full-binary-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0894-all-possible-full-binary-trees/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,12 +277,14 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0002-add-two-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
+| [0894-all-possible-full-binary-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0894-all-possible-full-binary-trees/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0894-all-possible-full-binary-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0894-all-possible-full-binary-trees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +296,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0094-binary-tree-inorder-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0894-all-possible-full-binary-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0894-all-possible-full-binary-trees/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,4 +313,8 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0933-number-of-recent-calls/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0894-all-possible-full-binary-trees/) | Medium |
 <!---LeetCode Topics End-->
