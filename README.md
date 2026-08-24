@@ -129,6 +129,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 ## Sorting
@@ -278,15 +279,18 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Matrix
