@@ -77,6 +77,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
+| [0029-divide-two-integers](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0029-divide-two-integers/) | Medium |
 | [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0258-add-digits](https://github.com/Madansingh7/Leetcode/tree/main/0258-add-digits/) | Easy |
@@ -257,6 +258,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0029-divide-two-integers/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
