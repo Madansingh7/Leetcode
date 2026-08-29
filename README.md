@@ -16,6 +16,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0056-merge-intervals](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Madansingh7/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Madansingh7/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0120-triangle](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -150,6 +151,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/Madansingh7/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0120-triangle](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0894-all-possible-full-binary-trees/) | Medium |
 ## Greedy
