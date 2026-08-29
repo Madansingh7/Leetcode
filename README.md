@@ -21,6 +21,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/Madansingh7/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
@@ -226,6 +227,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Madansingh7/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
