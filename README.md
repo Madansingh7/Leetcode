@@ -24,6 +24,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0238-product-of-array-except-self](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0283-move-zeroes](https://github.com/Madansingh7/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0334-increasing-triplet-subsequence](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Madansingh7/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -160,6 +161,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Madansingh7/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/Madansingh7/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
@@ -330,4 +332,8 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
