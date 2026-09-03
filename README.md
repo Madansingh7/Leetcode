@@ -281,6 +281,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0024-swap-nodes-in-pairs](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0092-reverse-linked-list-ii/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0203-remove-linked-list-elements/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -288,6 +289,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0002-add-two-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
+| [0203-remove-linked-list-elements](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0894-all-possible-full-binary-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0894-all-possible-full-binary-trees/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
