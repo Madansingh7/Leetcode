@@ -56,6 +56,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madansingh7/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Madansingh7/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0166-fraction-to-recurring-decimal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0166-fraction-to-recurring-decimal/) | Medium |
 | [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -81,6 +82,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0029-divide-two-integers](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0029-divide-two-integers/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0166-fraction-to-recurring-decimal/) | Medium |
 | [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0258-add-digits](https://github.com/Madansingh7/Leetcode/tree/main/0258-add-digits/) | Easy |
@@ -118,6 +120,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Madansingh7/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0166-fraction-to-recurring-decimal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0166-fraction-to-recurring-decimal/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
