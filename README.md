@@ -48,6 +48,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2653-sliding-subarray-beauty](https://github.com/Madansingh7/Leetcode/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/3480-maximize-subarrays-after-removing-one-conflicting-pair/) | Hard |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -247,6 +248,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madansingh7/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1590-make-sum-divisible-by-p/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/3480-maximize-subarrays-after-removing-one-conflicting-pair/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -341,4 +343,12 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0334-increasing-triplet-subsequence/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/3480-maximize-subarrays-after-removing-one-conflicting-pair/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/3480-maximize-subarrays-after-removing-one-conflicting-pair/) | Hard |
 <!---LeetCode Topics End-->
