@@ -83,6 +83,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0002-add-two-numbers/) | Medium |
 | [0029-divide-two-integers](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0029-divide-two-integers/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0166-fraction-to-recurring-decimal/) | Medium |
 | [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
@@ -157,6 +158,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/Madansingh7/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0120-triangle](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0894-all-possible-full-binary-trees/) | Medium |
@@ -300,6 +302,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0894-all-possible-full-binary-trees/) | Medium |
@@ -312,6 +315,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0894-all-possible-full-binary-trees/) | Medium |
@@ -351,4 +355,8 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/3480-maximize-subarrays-after-removing-one-conflicting-pair/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
