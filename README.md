@@ -305,6 +305,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0094-binary-tree-inorder-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0096-unique-binary-search-trees/) | Medium |
+| [0100-same-tree](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0894-all-possible-full-binary-trees/) | Medium |
@@ -312,6 +313,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0100-same-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -319,6 +321,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0094-binary-tree-inorder-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0095-unique-binary-search-trees-ii](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0096-unique-binary-search-trees/) | Medium |
+| [0100-same-tree](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0894-all-possible-full-binary-trees/) | Medium |
@@ -329,6 +332,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 ## Design
 | Problem Name | Difficulty |
