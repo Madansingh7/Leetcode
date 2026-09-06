@@ -6,78 +6,78 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0001-two-sum](https://github.com/Madansingh7/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0001-two-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0018-4sum/) | Medium |
-| [0027-remove-element](https://github.com/Madansingh7/Leetcode/tree/main/0027-remove-element/) | Easy |
-| [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
-| [0055-jump-game](https://github.com/Madansingh7/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0027-remove-element](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Madansingh7/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
-| [0088-merge-sorted-array](https://github.com/Madansingh7/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0120-triangle](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0120-triangle/) | Medium |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
-| [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
-| [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/0189-rotate-array/) | Medium |
-| [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
-| [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
-| [0283-move-zeroes](https://github.com/Madansingh7/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0239-sliding-window-maximum/) | Hard |
+| [0283-move-zeroes](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0334-increasing-triplet-subsequence/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0525-contiguous-array/) | Medium |
-| [0560-subarray-sum-equals-k](https://github.com/Madansingh7/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
-| [0605-can-place-flowers](https://github.com/Madansingh7/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
-| [0643-maximum-average-subarray-i](https://github.com/Madansingh7/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
-| [0713-subarray-product-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0605-can-place-flowers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0605-can-place-flowers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/Madansingh7/Leetcode/tree/main/C++/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0724-find-pivot-index/) | Easy |
-| [0904-fruit-into-baskets](https://github.com/Madansingh7/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
-| [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
-| [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |
-| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Madansingh7/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madansingh7/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
-| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madansingh7/Leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1590-make-sum-divisible-by-p/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
-| [2653-sliding-subarray-beauty](https://github.com/Madansingh7/Leetcode/tree/main/2653-sliding-subarray-beauty/) | Medium |
-| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2653-sliding-subarray-beauty](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/2653-sliding-subarray-beauty/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/3480-maximize-subarrays-after-removing-one-conflicting-pair/) | Hard |
-| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0001-two-sum](https://github.com/Madansingh7/Leetcode/tree/main/0001-two-sum/) | Easy |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Madansingh7/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0030-substring-with-concatenation-of-all-words](https://github.com/Madansingh7/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
-| [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0001-two-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0076-minimum-window-substring/) | Hard |
 | [0166-fraction-to-recurring-decimal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0166-fraction-to-recurring-decimal/) | Medium |
-| [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
-| [0438-find-all-anagrams-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0525-contiguous-array/) | Medium |
-| [0560-subarray-sum-equals-k](https://github.com/Madansingh7/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
-| [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
-| [0904-fruit-into-baskets](https://github.com/Madansingh7/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
-| [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madansingh7/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
-| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1590-make-sum-divisible-by-p/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
-| [2653-sliding-subarray-beauty](https://github.com/Madansingh7/Leetcode/tree/main/2653-sliding-subarray-beauty/) | Medium |
-| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
-| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [2653-sliding-subarray-beauty](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/2653-sliding-subarray-beauty/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,62 +85,62 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0029-divide-two-integers](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0029-divide-two-integers/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0166-fraction-to-recurring-decimal/) | Medium |
-| [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/0189-rotate-array/) | Medium |
-| [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
-| [0258-add-digits](https://github.com/Madansingh7/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0189-rotate-array/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/C/Medium/0227-basic-calculator-ii/) | Medium |
+| [0258-add-digits](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
-| [1071-greatest-common-divisor-of-strings](https://github.com/Madansingh7/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
-| [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
-| [2235-add-two-integers](https://github.com/Madansingh7/Leetcode/tree/main/2235-add-two-integers/) | Easy |
-| [2396-strictly-palindromic-number](https://github.com/Madansingh7/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2235-add-two-integers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/2235-add-two-integers/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/Madansingh7/Leetcode/tree/main/C++/2396-strictly-palindromic-number/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0018-4sum/) | Medium |
-| [0027-remove-element](https://github.com/Madansingh7/Leetcode/tree/main/0027-remove-element/) | Easy |
-| [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Madansingh7/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
-| [0088-merge-sorted-array](https://github.com/Madansingh7/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
-| [0151-reverse-words-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
-| [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/0189-rotate-array/) | Medium |
-| [0283-move-zeroes](https://github.com/Madansingh7/Leetcode/tree/main/0283-move-zeroes/) | Easy |
-| [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
-| [1768-merge-strings-alternately](https://github.com/Madansingh7/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
-| [2396-strictly-palindromic-number](https://github.com/Madansingh7/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [0027-remove-element](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
+| [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0567-permutation-in-string/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/Madansingh7/Leetcode/tree/main/C++/2396-strictly-palindromic-number/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [2396-strictly-palindromic-number](https://github.com/Madansingh7/Leetcode/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/Madansingh7/Leetcode/tree/main/C++/2396-strictly-palindromic-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Madansingh7/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0030-substring-with-concatenation-of-all-words](https://github.com/Madansingh7/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
-| [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
-| [0151-reverse-words-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0076-minimum-window-substring/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0166-fraction-to-recurring-decimal/) | Medium |
-| [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/C/Medium/0227-basic-calculator-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
-| [0438-find-all-anagrams-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
-| [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
-| [1071-greatest-common-divisor-of-strings](https://github.com/Madansingh7/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0567-permutation-in-string/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1208-get-equal-substrings-within-budget/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madansingh7/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
-| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Madansingh7/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
-| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
-| [1768-merge-strings-alternately](https://github.com/Madansingh7/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0094-binary-tree-inorder-traversal/) | Easy |
-| [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/Madansingh7/Leetcode/tree/main/C/Medium/0227-basic-calculator-ii/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -149,139 +149,139 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0016-3sum-closest](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
-| [0088-merge-sorted-array](https://github.com/Madansingh7/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
-| [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
-| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
-| [0055-jump-game](https://github.com/Madansingh7/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
+| [0055-jump-game](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0055-jump-game/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0120-triangle](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0120-triangle/) | Medium |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0894-all-possible-full-binary-trees/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0055-jump-game](https://github.com/Madansingh7/Leetcode/tree/main/0055-jump-game/) | Medium |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0055-jump-game](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0055-jump-game/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0334-increasing-triplet-subsequence/) | Medium |
-| [0605-can-place-flowers](https://github.com/Madansingh7/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0605-can-place-flowers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0605-can-place-flowers/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0954-array-of-doubled-pairs/) | Medium |
-| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0258-add-digits](https://github.com/Madansingh7/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [0258-add-digits](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/1688-count-of-matches-in-tournament/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0258-add-digits](https://github.com/Madansingh7/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [0258-add-digits](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Madansingh7/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0030-substring-with-concatenation-of-all-words](https://github.com/Madansingh7/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
-| [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
-| [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
-| [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0076-minimum-window-substring/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
-| [0438-find-all-anagrams-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
-| [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
-| [0643-maximum-average-subarray-i](https://github.com/Madansingh7/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
-| [0713-subarray-product-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
-| [0904-fruit-into-baskets](https://github.com/Madansingh7/Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0567-permutation-in-string/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/Madansingh7/Leetcode/tree/main/C++/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0930-binary-subarrays-with-sum/) | Medium |
-| [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1208-get-equal-substrings-within-budget/) | Medium |
-| [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
-| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Madansingh7/Leetcode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madansingh7/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madansingh7/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
-| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Madansingh7/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
-| [2653-sliding-subarray-beauty](https://github.com/Madansingh7/Leetcode/tree/main/2653-sliding-subarray-beauty/) | Medium |
-| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2653-sliding-subarray-beauty](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/2653-sliding-subarray-beauty/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
-| [0713-subarray-product-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
-| [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1208-get-equal-substrings-within-budget/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0525-contiguous-array/) | Medium |
-| [0560-subarray-sum-equals-k](https://github.com/Madansingh7/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
-| [0713-subarray-product-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
-| [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1208-get-equal-substrings-within-budget/) | Medium |
-| [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | Medium |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madansingh7/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1590-make-sum-divisible-by-p/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/3480-maximize-subarrays-after-removing-one-conflicting-pair/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0239-sliding-window-maximum/) | Hard |
 | [0933-number-of-recent-calls](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0933-number-of-recent-calls/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0239-sliding-window-maximum/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0239-sliding-window-maximum/) | Hard |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0194-transpose-file](https://github.com/Madansingh7/Leetcode/tree/main/0194-transpose-file/) | Medium |
+| [0194-transpose-file](https://github.com/Madansingh7/Leetcode/tree/main/C++/0194-transpose-file/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0029-divide-two-integers/) | Medium |
-| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
