@@ -7,6 +7,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0018-4sum/) | Medium |
@@ -180,6 +181,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -226,6 +228,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
