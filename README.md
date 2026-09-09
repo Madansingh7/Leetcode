@@ -58,6 +58,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0076-minimum-window-substring/) | Hard |
+| [0141-linked-list-cycle](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0166-fraction-to-recurring-decimal](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0166-fraction-to-recurring-decimal/) | Medium |
 | [0169-majority-element](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0169-majority-element/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
@@ -106,6 +107,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0042-trapping-rain-water](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
@@ -292,6 +294,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0024-swap-nodes-in-pairs](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0092-reverse-linked-list-ii/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0203-remove-linked-list-elements/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1019-next-greater-node-in-linked-list/) | Medium |
 ## Recursion
@@ -374,4 +377,8 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0095-unique-binary-search-trees-ii/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
