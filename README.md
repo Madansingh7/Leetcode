@@ -133,6 +133,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0567-permutation-in-string](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0567-permutation-in-string/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1208-get-equal-substrings-within-budget](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1208-get-equal-substrings-within-budget/) | Medium |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -219,6 +220,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0930-binary-subarrays-with-sum](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1208-get-equal-substrings-within-budget/) | Medium |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/1234-replace-the-substring-for-balanced-string/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
