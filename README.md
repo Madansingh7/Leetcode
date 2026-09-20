@@ -97,6 +97,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/Madansingh7/Leetcode/tree/main/C++/2396-strictly-palindromic-number/) | Medium |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/4050-minimum-days-to-score-exactly-n-points/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +167,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [0120-triangle](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/0894-all-possible-full-binary-trees/) | Medium |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/Madansingh7/Leetcode/tree/main/Java/Medium/4050-minimum-days-to-score-exactly-n-points/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
