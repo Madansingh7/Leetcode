@@ -48,6 +48,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Madansingh7/Leetcode/tree/main/C++/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2653-sliding-subarray-beauty](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/2653-sliding-subarray-beauty/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Madansingh7/Leetcode/tree/main/C++/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/3480-maximize-subarrays-after-removing-one-conflicting-pair/) | Hard |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Madansingh7/Leetcode/tree/main/C++/Easy/3684-maximize-sum-of-at-most-k-distinct-elements/) | Easy |
@@ -371,6 +372,7 @@ This repository contains LeetCode problems solved by me in C++, uploaded as part
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Madansingh7/Leetcode/tree/main/Java/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3480-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Madansingh7/Leetcode/tree/main/Java/Hard/3480-maximize-subarrays-after-removing-one-conflicting-pair/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
